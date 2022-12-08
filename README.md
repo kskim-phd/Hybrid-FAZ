@@ -62,6 +62,15 @@ Proposed code: python path/to/Hybrid-FAZ/FAZ_code/FAZ_proposed.py
 ```
 ---
 
+# Diagnosis result
+
+|Model||Fold1|Fold2|Fold3|Fold4|Fold5|
+|------|---|---|
+|Baseline|51|64|49|60|68|
+|Proposed|76|76|65|70|72|
+
+---
+
 # Acknowledgements
 
 thanks to MIC-DKFZ for sharing the segmentation nnUNet code.

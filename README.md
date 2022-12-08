@@ -4,7 +4,7 @@ We release Hybrid-FAZ Alzheimer's diagnosis code.
 
 Contributors: Kyung-su Kim , Chae-yeon Lim
 
-Detailed instructions for testing the image are as follows.
+Detailed instructions for diagnosis Alzheimer's are as follows.
 
 ---
 

@@ -24,3 +24,7 @@ Using Paper Dataset
 
 Conducting training through nnUNet using a public data set
 
+Public dataset: https://zenodo.org/record/5075563
+
+Result
+![100](https://user-images.githubusercontent.com/86760506/206358072-0e18a8b6-ff58-410d-a988-1cd644c973f1.jpg)

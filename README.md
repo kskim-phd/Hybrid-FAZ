@@ -63,6 +63,7 @@ Proposed code: python path/to/Hybrid-FAZ/FAZ_code/FAZ_proposed.py
 ---
 
 # Diagnosis result
+
 ```markdown
 |Model||Fold1|Fold2|Fold3|Fold4|Fold5|
 |------|---|---|---|---|---|

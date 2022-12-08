@@ -65,15 +65,11 @@ Proposed code: python path/to/Hybrid-FAZ/FAZ_code/FAZ_proposed.py
 # Diagnosis result
 
 ```markdown
-|Model|Fold1|Fold2|Fold3|Fold4|Fold5|
-|------|---|---|---|---|---|
-|Baseline|51|64|49|60|68|
-|Proposed|76|76|65|70|72|
-
-머리1 | 머리2 | 머리3 | 뚝배기
----- | ---- | ---- | ----
-다리 | 다리1 | 다리2 | 뚝배기깹니다
-금 | 의 | 환 | 향
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
 
 ```
 ---

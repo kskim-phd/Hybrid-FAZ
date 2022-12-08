@@ -26,6 +26,7 @@ Conducting training through nnUNet using a public data set
 
 Public dataset: https://zenodo.org/record/5075563
 
-Result
+AI-based segmentation result
 
 ![100](https://user-images.githubusercontent.com/86760506/206358072-0e18a8b6-ff58-410d-a988-1cd644c973f1.jpg)
+![100](https://user-images.githubusercontent.com/86760506/206358135-4fd705e8-d544-45e4-9b39-cb21c91d0709.png)

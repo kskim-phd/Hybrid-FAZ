@@ -1,0 +1,14 @@
+torch==1.9.0+cu111
+torchaudio==0.9.0
+torchfile==0.1.0
+torchmetrics==0.4.1
+torchvision==0.10.0+cu111
+scikit-learn==0.24.2
+scikit-image
+matplotlib
+pickle
+pdb
+natsort
+tqdm
+opencv-python
+lightbgm

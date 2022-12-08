@@ -33,3 +33,9 @@ AI-based segmentation result
 
 ![1000](https://user-images.githubusercontent.com/86760506/206358219-c84118c3-f482-4ab3-ac2c-da6f9c73bdab.jpg)
 ![1000](https://user-images.githubusercontent.com/86760506/206358236-d0eec3c7-2360-4248-bf25-751c3a39b270.png)
+
+![1001](https://user-images.githubusercontent.com/86760506/206358298-4a813f4c-479f-4de9-b8ad-077fe0a0b064.jpg)
+![1001](https://user-images.githubusercontent.com/86760506/206358302-23c04514-8c40-45f1-8ca7-b2a500b68e0c.png)
+
+![1002](https://user-images.githubusercontent.com/86760506/206358340-2633dc29-e2a7-4edc-8d3a-5e7af1985ff9.jpg)
+![1002](https://user-images.githubusercontent.com/86760506/206358342-f9fdba70-a7ab-4632-a122-01462911bab2.png)

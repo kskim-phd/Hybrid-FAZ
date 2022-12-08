@@ -65,12 +65,11 @@ Proposed code: python path/to/Hybrid-FAZ/FAZ_code/FAZ_proposed.py
 # Diagnosis result
 
 ```markdown
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
+|제목|내용|설명|
+|:---|---:|:---:|
+|왼쪽정렬|오른쪽정렬|중앙정렬|
+|왼쪽정렬|오른쪽정렬|중앙정렬|
+|왼쪽정렬|오른쪽정렬|중앙정렬|
 ```
 ---
 

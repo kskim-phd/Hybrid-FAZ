@@ -60,3 +60,10 @@ Baseline code: python path/to/Hybrid-FAZ/FAZ_code/FAZ_baseline.py
 
 Proposed code: python path/to/Hybrid-FAZ/FAZ_code/FAZ_proposed.py
 ```
+---
+
+# Acknowledgements
+
+thanks to MIC-DKFZ for sharing the segmentation nnUNet code.
+
+nnUNet github: https://github.com/MIC-DKFZ/nnUNet

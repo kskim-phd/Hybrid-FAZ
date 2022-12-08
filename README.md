@@ -39,3 +39,8 @@ AI-based segmentation result
 
 ![1002](https://user-images.githubusercontent.com/86760506/206358340-2633dc29-e2a7-4edc-8d3a-5e7af1985ff9.jpg)
 ![1002](https://user-images.githubusercontent.com/86760506/206358342-f9fdba70-a7ab-4632-a122-01462911bab2.png)
+
+---
+
+# Multi-feature diagnosis
+

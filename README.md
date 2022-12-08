@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 ---
 
-# Segmentation
+# FAZ Segmentation
 
 Conducting training through nnUNet using a public data set
 

@@ -20,6 +20,16 @@ Using Paper Dataset
                       
 ---
 
+# Environments
+
+Required libraries for training/inference are detailed in requirements.txt
+
+```python
+pip install -r requirements.txt
+```
+
+---
+
 # Segmentation
 
 Conducting training through nnUNet using a public data set
@@ -45,7 +55,8 @@ AI-based segmentation result
 # Multi-feature diagnosis
 
 Radiomics multi-feature based machine learning diagnosis
-
+```
 Baseline code: python path/to/Hybrid-FAZ/FAZ_code/FAZ_baseline.py
 
 Proposed code: python path/to/Hybrid-FAZ/FAZ_code/FAZ_proposed.py
+```

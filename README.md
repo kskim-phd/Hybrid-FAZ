@@ -10,9 +10,7 @@ Detailed instructions for testing the image are as follows.
 
 # Implementation
 
-Pytorch implementation based on radiomics multi-feature based machine learning using 
-
-OCTA FAZ segmentation image
+Pytorch implementation based on radiomics multi-feature based machine learning using FAZ segmentation image
 
 Using Paper Dataset
 

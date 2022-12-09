@@ -2,7 +2,7 @@
 
 We release Hybrid-FAZ Alzheimer's diagnosis code.
 
-Contributors: Kyung-su Kim , Chae-yeon Lim
+Contributors: Chae-yeon Lim, Kyungsu Kim
 
 Detailed instructions for diagnosis Alzheimer's are as follows.
 

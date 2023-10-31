@@ -61,6 +61,9 @@ Baseline code: python path/to/Hybrid-FAZ/FAZ_code/FAZ_baseline.py
 Proposed code: python path/to/Hybrid-FAZ/FAZ_code/FAZ_proposed.py
 ```
 ---
+# Pseudo code
+
+![pseudo code](https://github.com/kskim-phd/CSIP/assets/86760506/107b7cee-821a-4816-9303-3b6ac2a754a6)
 
 # Diagnosis result
 

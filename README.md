@@ -56,9 +56,9 @@ AI-based segmentation result
 
 Radiomics multi-feature based machine learning diagnosis
 ```
-Baseline code: python path/to/Hybrid-FAZ/FAZ_code/FAZ_baseline.py
+Baseline code: path/to/Hybrid-FAZ/FAZ_code/FAZ_Holdout_test_baseline.ipynb
 
-Proposed code: python path/to/Hybrid-FAZ/FAZ_code/FAZ_proposed.py
+Proposed code: path/to/Hybrid-FAZ/FAZ_code/FAZ_Holdout_test_propose.ipynb
 ```
 ---
 # Pseudo code

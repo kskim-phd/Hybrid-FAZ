@@ -68,10 +68,10 @@ Proposed code: python path/to/Hybrid-FAZ/FAZ_code/FAZ_proposed.py
 # Diagnosis result
 
 
-|Model|Fold1|Fold2|Fold3|Fold4|Fold5|Mean (%)|
-|------|---|---|---|---|---|---|
-|Baseline|51|64|49|60|68|59.1±7.1|
-|Proposed|76|76|65|70|72|72.2±4.2|
+|Method|Accuracy (%)|Sensitivity (%)|Specificity (%)|Precision (%)|AUC (%)|
+|------|---|---|---|---|---|
+|Baseline|47.5± 5.8%|76.2± 14.4%|31.7± 12.2%|38.2± 4.1%|58.5± 5.4%|
+|Proposed|64.8± 4.3%|83.7± 6.3%|54.4± 5.0%|50.4± 3.4%|72.0± 4.8%|
 
 
 ---

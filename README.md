@@ -14,9 +14,8 @@ Pytorch implementation based on radiomics multi-feature based machine learning u
 
 Using Paper Dataset
 
-/FAZ/Dataset/AI_base_inference (Proposed AI segmentation)
-                      
-/FAZ/Dataset/segmen_manual (Baseline manual segmentation)
+Alzheimer disease: Hybrid-FAZ/Holdout_test/AD
+Normal control group: Hybrid-FAZ/Holdout_test/SCD
                       
 ---
 

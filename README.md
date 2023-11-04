@@ -14,7 +14,7 @@ Pytorch implementation based on radiomics multi-feature based machine learning u
 
 Using Paper Dataset
 
-Alzheimer disease: Hybrid-FAZ/Holdout_test/AD
+Alzheimer's disease: Hybrid-FAZ/Holdout_test/AD
 
 Normal control group: Hybrid-FAZ/Holdout_test/SCD
                       

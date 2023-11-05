@@ -14,9 +14,9 @@ Pytorch implementation based on radiomics multi-feature based machine learning u
 
 Using Paper Dataset
 
-Alzheimer's disease: Hybrid-FAZ/Holdout_test/AD
+Proposed: Hybrid-FAZ/Holdout_proposed_AI/*
 
-Normal control group: Hybrid-FAZ/Holdout_test/SCD
+baseline: Hybrid-FAZ/Holdout_baseline_manual/*
                       
 ---
 
@@ -63,7 +63,7 @@ Proposed code: path/to/Hybrid-FAZ/FAZ_code/FAZ_Holdout_test_propose.ipynb
 ---
 # Pseudo code
 
-![image](https://github.com/LimChaeYeon1003/Vnet-pytorch-implementation/assets/86760506/59f331e2-a2d1-4a20-a225-d454b60b6220)
+![image](https://github.com/kskim-phd/Hybrid-FAZ/assets/86760506/ff33675b-3e16-43f7-9cd1-3babd5eb325f)
 
 # Diagnosis result in holdout test
 

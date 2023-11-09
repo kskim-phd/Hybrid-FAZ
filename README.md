@@ -63,7 +63,8 @@ Proposed code: path/to/Hybrid-FAZ/FAZ_code/FAZ_Holdout_test_propose.ipynb
 ---
 # Pseudo code
 
-![image](https://github.com/kskim-phd/Hybrid-FAZ/assets/86760506/ff33675b-3e16-43f7-9cd1-3babd5eb325f)
+![image](https://github.com/LimChaeYeon1003/Vnet-pytorch-implementation/assets/86760506/80387678-c75a-4687-a893-f39210f3785e)
+
 
 # Diagnosis result in holdout test
 

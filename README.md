@@ -71,8 +71,8 @@ Proposed code: path/to/Hybrid-FAZ/FAZ_code/FAZ_Holdout_test_propose.ipynb
 
 |Method|Accuracy (%)|Sensitivity (%)|Specificity (%)|Precision (%)|AUC (%)|
 |------|---|---|---|---|---|
-|Baseline|47.5± 5.8%|76.2± 14.4%|31.7± 12.2%|38.2± 4.1%|58.5± 5.4%|
-|Proposed|64.8± 4.3%|83.7± 6.3%|54.4± 5.0%|50.4± 3.4%|72.0± 4.8%|
+|Baseline|47.5± 5.8%|31.7± 12.2%|76.2± 14.4%|38.2± 4.1%|58.5± 5.4%|
+|Proposed|64.8± 4.3%|50.4± 3.4%|83.7± 6.3%|50.4± 3.4%|72.0± 4.8%|
 
 
 ---
